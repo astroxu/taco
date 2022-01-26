@@ -1,0 +1,15 @@
+### expand
+GRPC {{baseAddr}}/transform.transformer/expand
+
+{
+  "shorten":"sdfsdf"
+}
+
+### shorten
+GRPC {{baseAddr}}/transform.transformer/shorten
+
+{
+  "url":"https://cn.bing.com/?FORM=Z9FD1"
+}
+
+
