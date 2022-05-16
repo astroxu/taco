@@ -128,3 +128,5 @@ transform.rpc/7587851893787585061
 ```sh
 goctl model mysql ddl -c -src shorturl.sql -dir .
 ```
+
+
