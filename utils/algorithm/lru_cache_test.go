@@ -6,7 +6,7 @@
 package algorithm
 
 import (
-	"github.com/taco/utils/internal"
+	"github.com/seanxu24/taco/utils/internal"
 	"testing"
 )
 

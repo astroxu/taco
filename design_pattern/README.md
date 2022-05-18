@@ -7,11 +7,12 @@ go中的interface就是一些方法装饰, 而struct并不依赖于接口
 ## 创建类
 ----
 
-### [建造者模式(builder pattern)](./builder_pattern)
+### [建造者模式(Builder Pattern)](./builder_pattern)
 > 将一个复杂对象的构建与它的表示分离, 使得同样的构建过程可以创建不同的表示
 > 
 > 当一个类的构造函数参数个数超过4个，而且这些参数有些是可选的参数，考虑使用构造者模式。
 
-
+#### [工厂方法模式(Factory Method)](./factory_method_pattern)
+> 使一个类的实例化延迟到其子类, 定义一个用于创建对象的接口, 让子类决定将哪一个类实例化
 
 

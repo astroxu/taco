@@ -6,7 +6,7 @@
 // Package algorithm contain some basic algorithm function. eg. sort, search, list,linklist, stack, queue, tree, graph. TODO
 package algorithm
 
-import "github.com/taco/utils/constraints"
+import "github.com/seanxu24/taco/utils/constraints"
 
 // Search algorithm see https://github.com/TheAlgorithms/Go/tree/master/search
 

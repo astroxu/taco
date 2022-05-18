@@ -6,7 +6,7 @@
 you need to import the corresponding package name when use it. For example, if you use string-related functions,import the algorithm package like below:
 
 ```go
-import "github.com/taco/utils/algorithm"
+import "github.com/seanxu24/taco/utils/algorithm"
 ```
 
 ## Example
@@ -17,7 +17,7 @@ Here takes the algorithm function NewLRUCache as an example, and the algorithm p
 package main
 
 import (
-    "github.com/taco/utils/algorithm"
+    "github.com/seanxu24/taco/utils/algorithm"
 )
 
 func main() {
