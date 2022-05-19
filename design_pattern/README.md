@@ -17,3 +17,6 @@ go中的interface就是一些方法装饰, 而struct并不依赖于接口
 
 #### [对象池模式(Object Pool)](./object_pool_pattern)
 > 根据需求将预测的对象保存到channel中， 用于对象的生成成本大于维持成本
+
+#### [单例模式(Singleton)](./singleton_pattern)
+> 单例模式是最简单的设计模式之一, 保证一个类仅有一个实例, 并提供一个全局的访问接口
