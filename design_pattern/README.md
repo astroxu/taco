@@ -20,3 +20,6 @@ go中的interface就是一些方法装饰, 而struct并不依赖于接口
 
 #### [单例模式(Singleton)](./singleton_pattern)
 > 单例模式是最简单的设计模式之一, 保证一个类仅有一个实例, 并提供一个全局的访问接口
+
+#### [生成器模式(Generator)](./generator_pattern)
+> 生成器模式可以允许使用者在生成要使用的下一个值时与生成器并行运行
