@@ -29,3 +29,9 @@ go中的interface就是一些方法装饰, 而struct并不依赖于接口
 
 #### [原型模式(Prototype)](./prototype_pattern)
 > 复制一个已存在的实例
+
+## 结构类
+---
+
+#### [装饰模式(Decorator)](./decorator_pattern)
+> 装饰模式使用对象组合的方式动态改变或增加对象行为， 在原对象的基础上增加功能
