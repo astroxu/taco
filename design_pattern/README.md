@@ -42,5 +42,8 @@ go中的interface就是一些方法装饰, 而struct并不依赖于接口
 #### [适配器模式(Adapter)](./apapter_pattern)
 > 将一个类的接口转换成客户希望的另外一个接口。适配器模式使得原本由于接口不兼容而不能一起工作的那些类可以一起工作
 
-> #### [组合模式(Composite)](./composite_pattern)
+#### [组合模式(Composite)](./composite_pattern)
 > 组合模式有助于表达数据结构, 将对象组合成树形结构以表示"部分-整体"的层次结构, 常用于树状的结构
+
+#### [享元模式(Flyweight)](./flyweight_pattern)
+> 把多个实例对象共同需要的数据，独立出一个享元，从而减少对象数量和节省内存
