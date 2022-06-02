@@ -3,7 +3,7 @@
  * @Date: 2022/5/31 10:19
  */
 
-package link
+package datastructure
 
 import (
 	"errors"

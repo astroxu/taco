@@ -3,7 +3,7 @@
  * @Date: 2022/6/1 09:10
  */
 
-package link
+package datastructure
 
 import (
 	"github.com/seanxu24/taco/utils/internal"
